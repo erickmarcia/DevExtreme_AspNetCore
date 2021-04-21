@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "Ine.Sih.Csi",
+  "private": true,
+  "dependencies": {
+    "devextreme": "20.2.5",
+    "@devexpress/analytics-core": "20.2.5",
+    "devexpress-reporting": "20.2.5",
+    "globalize": "^1.3.0",
+    "jquery-ui-dist": "^1.12.1"
+  }
+}

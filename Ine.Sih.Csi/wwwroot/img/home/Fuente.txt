@@ -1,0 +1,16 @@
+CsiLayoutInicio
+	https://www.flaticon.com/free-icon/house_609803#term=home&page=1&position=12
+CsiLayoutTablero
+	https://www.flaticon.com/free-icon/speedometer_610106#term=dashboard&page=1&position=61
+CsiLayoutPetroleras
+	https://www.flaticon.com/free-icon/barrel_1098374#term=oil%20barrel&page=1&position=69
+CsiLayoutImportaciones
+	https://www.flaticon.com/free-icon/ship_1064719
+CsiLayoutPlantasEnvasadoras
+	https://www.flaticon.com/free-icon/tank_1847414#term=gas%20tank&page=2&position=69
+CsiLayoutPlantasGeneradoras
+	https://www.flaticon.com/free-icon/gas_1783860#term=power%20plant&page=2&position=94
+CsiLayoutCatalogos
+	https://www.flaticon.com/free-icon/completed-task_1632670#term=list&page=1&position=28
+CsiLayoutCatalogosNodos
+	https://www.flaticon.com/free-icon/graphic_216227#term=nodes&page=1&position=94
